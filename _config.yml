@@ -25,7 +25,7 @@ github_username:  glennire
 
 # Build settings
 markdown: kramdown
-theme: clean
+theme: jekyll-theme-tactile
 plugins:
   - jekyll-feed
 
